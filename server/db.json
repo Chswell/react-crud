@@ -1,0 +1,105 @@
+{
+  "items": [
+    {
+      "id": 1,
+      "title": "Мужские Кроссовки Nike Kyrie 7",
+      "price": 12999,
+      "imageUrl": "/img/sneakers/1.jpg"
+    },
+    {
+      "id": 12,
+      "title": "Мужские Кроссовки Nike Kyrie 8",
+      "price": 15999,
+      "imageUrl": "/img/sneakers/2.jpg"
+    },
+    {
+      "id": 13,
+      "title": "Мужские Кроссовки Nike Kyrie 9",
+      "price": 17999,
+      "imageUrl": "/img/sneakers/3.jpg"
+    },
+    {
+      "id": 14,
+      "title": "Мужские Кроссовки Nike Kyrie 10",
+      "price": 5677,
+      "imageUrl": "/img/sneakers/4.jpg"
+    },
+    {
+      "id": 15,
+      "title": "Мужские Кроссовки Nike Kyrie 11",
+      "price": 75423,
+      "imageUrl": "/img/sneakers/1.jpg"
+    },
+    {
+      "id": 16,
+      "title": "Мужские Кроссовки Nike Kyrie 12",
+      "price": 8765,
+      "imageUrl": "/img/sneakers/2.jpg"
+    },
+    {
+      "id": 17,
+      "title": "Мужские Кроссовки Nike Kyrie 3",
+      "price": 12344,
+      "imageUrl": "/img/sneakers/3.jpg"
+    },
+    {
+      "username": "jhg",
+      "password": "hgf",
+      "id": 18
+    },
+    {
+      "username": "jhgyyy",
+      "password": "hgf",
+      "id": 19
+    }
+  ],
+  "cart": [
+    {
+      "username": "1с",
+      "id": 1
+    },
+    {
+      "username": "test",
+      "password": "pass",
+      "id": 2
+    },
+    {
+      "username": "1",
+      "password": "2",
+      "id": 3
+    },
+    {
+      "username": "12",
+      "password": "321",
+      "id": 4
+    },
+    {
+      "username": "jhg",
+      "password": "hgf",
+      "id": 5
+    },
+    {
+      "username": "jhg",
+      "password": "hgf",
+      "id": 6
+    },
+    {
+      "username": "jhg",
+      "password": "hgf",
+      "id": 7
+    },
+    {
+      "username": "jhg",
+      "password": "hgf",
+      "id": 8
+    }
+  ],
+  "favorites": [
+    {
+      "id": 12,
+      "title": "Мужские Кроссовки Nike Kyrie 8",
+      "imageUrl": "/img/sneakers/2.jpg",
+      "price": 15999
+    }
+  ]
+}
